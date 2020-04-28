@@ -1,0 +1,8 @@
+jwewe
+Q:{A,B,C,D,E}
+F:{a,b}
+i:A
+A:{B}
+cghhg
+W	:{(A,e,B),(A,e,C),(B,a,B),(B,e,E),(C,a,D),(C,a,E),(D,b,C)}
+	
